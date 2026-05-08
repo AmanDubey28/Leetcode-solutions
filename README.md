@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -31,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
