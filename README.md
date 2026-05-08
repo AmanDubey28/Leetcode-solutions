@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
