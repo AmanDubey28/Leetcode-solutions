@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
