@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
