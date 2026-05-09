@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Database
 |  |
 | ------- |
