@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
