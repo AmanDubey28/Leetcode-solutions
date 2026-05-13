@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/AmanDubey28/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Database
 |  |
 | ------- |
