@@ -3,11 +3,13 @@ import java.util.*;
 class Main {
     public static int solve(int N, int K, int[] a) {
         int total = 0;
-        boolean doubleNext = false;
 
         for (int i = 0; i < N; i++) {
-            total += doubleNext ? a[i] * 2 : a[i];
-            doubleNext = ((i + 1) % K == 0);
+            if (i > 0 && i % K == 0) {
+                total += a[i] * 2;
+            } else {
+                total += a[i];
+            }
         }
 
         return total;
@@ -26,5 +28,6 @@ class Main {
             }
             System.out.println(solve(n, k, a));
         }
+        sc.close();
     }
 }
